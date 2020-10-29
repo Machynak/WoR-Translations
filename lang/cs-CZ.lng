@@ -26,38 +26,38 @@ AcceptBtn=Příjmout
 DeclineBtn=Odmítnout
 
 [General]
-MessageBox.CustomPackageWarn=Choosing an outdated or incompatible package may cause installation problems!{n}{n}It is recommended that you use the latest version available on the server instead.{n}{n}Continue anyway?
-MessageBox.SelectedPackageInvalid.Heading=The selected package is invalid or incompatible with your device.
-MessageBox.SelectedPackageInvalid.Message=Please select a package built for {0}.
+MessageBox.CustomPackageWarn=Výběr zastaralého nebo nekompatibilního balíčku může způsobit problémy s instalací!{n}{n}Místo toho doporučujeme použít nejnovější verzi dostupnou na serveru.{n}{n}Přesto pokračovat?
+MessageBox.SelectedPackageInvalid.Heading=Vybraný balíček je neplatný nebo nekompatibilní s vaším zařízením.
+MessageBox.SelectedPackageInvalid.Message=Vyberte balíček vytvořený pro {0}.
 Message.ExtractingPackageToTemp=Rozbalování archivu do dočasné složky...
 Message.DownloadingReqFiles=Stahování vyžadovaných souborů...
-Label.StorageDrive=Storage drive
-Label.DeviceType=Device type
-FilePathTextPlaceholder=Click on the "{0}" button or drag and drop the file here.
-ServerPackageInfoLabel=This is the recommended option. It can be used offline too, as long as the package has been previously downloaded.
+Label.StorageDrive=Úložiště
+Label.DeviceType=Typ zařízení
+FilePathTextPlaceholder=Klikněte na tlačítko "{0}" nebo sem přetáhněte soubor.
+ServerPackageInfoLabel=Toto je doporučená možnost. Lze jej použít i offline, pokud byl balíček dříve stažen.
 
 [MessageBox]
 Button.OK=OK
-Button.Cancel=Cancel
-Button.Abort=Abort
-Button.Retry=Retry
-Button.Ignore=Ignore
-Button.Yes=Yes
-Button.No=No
-CheckBox.DoNotShowAgain=Don't show this again
+Button.Cancel=Storno
+Button.Abort=Zrušit
+Button.Retry=Znovu
+Button.Ignore=Ignorovat
+Button.Yes=Ano
+Button.No=Ne
+CheckBox.DoNotShowAgain=Znovu neukazovat
 
 [MessageBox.Common]
-Heading.SomethingWentWrong=Something went wrong...
-Heading.Warning=Warning!
+Heading.SomethingWentWrong=Něco se pokazilo...
+Heading.Warning=Varování!
 
 [MainWindow]
-SendFeedbackBtn=Send feedback
+SendFeedbackBtn=Odeslat zpětnou vazbu
 NextPageBtn=Další
 BackPageBtn=Zpět
 NextPageBtn.Install=Instalovat
 NextPageBtn.Finish=Dokončit
 MessageBox.TaskOngoing.Heading=Opravdu chcete násilně ukončit aplikací?
-MessageBox.TaskOngoing.Message=Oprace právě probíhá.
+MessageBox.TaskOngoing.Message=Operace právě probíhá.
 
 [WelcomePage]
 PageTitle=Vítejte
